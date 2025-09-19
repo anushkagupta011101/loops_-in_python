@@ -1,0 +1,84 @@
+#-----------------------------------------------------------------------------------
+#Author: ANUSHKA GUPTA
+
+# #-----------------------------------------------------------------------------------------------------
+# # LOOP: in python loop are used to iterate the set of statement or block of code again and again.
+
+
+# # THERE ARE TWO TYPES OF LOOP:
+# # FOR LOOP
+# # WHILE LOOP:
+
+
+# #WHILE LOOP:
+# # x=1
+# # while x<=10:
+# #     print(x)
+# #     x+=1
+# # else:
+# #     print("false condition")
+
+
+
+# #print 10 times hello world
+
+# # x=1
+# # while x<=10:
+# #     print("hello world"*10)
+# #     x+=1
+# # x=20
+
+# # while x<=20:
+# #     print(x)
+# #     x+=1
+
+# # # x=2
+# # # while x%2==0:
+# # #     print(x)
+# # #     x<=20
+# # x=2
+# # while x<20:
+# #     if x%2==0:
+# #      print(x)
+#     # x+=1
+    
+# # x="sales400"
+# # y="sales300"
+# # a=x[-3:]
+# # b=y[-3:]
+# # print(a+b)
+
+# #wap to print all odd number between 20 to 30
+# # x=21
+# # while x<=30:
+# #     if x%2!=0:
+# #      print(x)
+# #     x+=1
+
+    
+
+
+
+# #wap to print all number divisible by 7 between 20 to 60
+# # x=20
+# # y=60
+# # while x<=60:
+# #     if x%7==0:
+# #         print("divisible by 7:",x)
+# #         x+=1
+
+
+#        #wap to python program to p
+# # x=5
+# # while x<=10:
+# #      print(x*5)
+# #      x+=1
+
+
+
+# #wap with help of user input to print any table in format table
+# # tab=int(input("enter any table"))
+# # x=1 
+# # while x<=10:
+# #     print(f"{tab}X{x}={x*tab}")
+# #     x+=1
