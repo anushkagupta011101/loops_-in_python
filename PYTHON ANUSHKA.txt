@@ -81,4 +81,54 @@
 # # x=1 
 # # while x<=10:
 # #     print(f"{tab}X{x}={x*tab}")
+
 # #     x+=1
+
+
+# #wap to print alllnlumber between 1 to 40 which is divisible by 50
+# # # x=1
+# # # y=40
+# # # while x<=y:
+# # #     if x%4==0 and x%5==0:
+# # #         print("divisible by 40:"x)
+# # x+=1
+
+
+
+
+# #wap to print number from 1 to 50 if numver is grater then 10 print high if number is greater than 5 print Medium else print(low)
+
+# # x=1
+# # y=50
+# # while x<=y:
+
+# #     if x>10:
+# #         print("high")
+# #     elif x>5:
+# #         print("medium") 
+# #     else:
+# #         print("low")
+# #     x+=1
+
+
+# #----------------------------------------------------------------------------------------------
+# #print line: 
+# # 1 verticle line: 
+# # 2 horizontal line: print(x,end="")
+
+# # x=1
+# # while x<=20:
+# #     print(x,end=" ")
+# #     x+=1
+
+
+
+# # i
+# #import time
+# # x=30
+# # while x>=1:
+# #     print(x,end="\r")
+# #     x-=1
+
+# #     time.sleep(1)
+
