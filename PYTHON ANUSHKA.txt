@@ -132,3 +132,68 @@
 
 # #     time.sleep(1)
 
+
+
+
+
+# #BREAK: IT BREAK THE LOOP ACCORDING TO CONDITION.
+# # X=1
+# # while x<10:
+# #     x+=1
+# #     if x==5:
+# #         break
+# #     print(x)
+# #continue: IT SKIP THE VALULE ACCORDING TO CONDITON
+# # X=1
+# # while x<10:
+# #      x+=1
+# #      if x==5:
+# #          continue
+# #      else:
+
+# #       print(x)
+
+
+# #------------------------------------------------------------------------------------
+# # x=20
+# # y=40
+# # while y>=x:
+# #     if x%2==1: 
+     
+# #      print("odd number:",x)
+# #     x+=1
+
+
+
+# # password= 1234
+# # limit= 5
+
+# # while limit>1:
+# #     limit-=1
+# #     user=int(input("enter any password:"))
+# #     if user==password:
+# #         print("correct password:")
+# #         break
+# #     print("try again")
+# #     print("-"*50)
+# #     print("rest attempt:",limit)    
+# # 
+
+
+# #second type
+
+# #wap to count total even numbers from 10 to 30
+# # c=0
+# # x=10
+# # while x<=10:
+# #     if x%2==0:
+# #         print(x,end="  ")
+# #         x+=1
+# #         c=c+1
+
+# #         print("total even number",c)
+ 
+
+
+
+
