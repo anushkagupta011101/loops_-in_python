@@ -192,7 +192,89 @@
 # #         c=c+1
 
 # #         print("total even number",c)
+
+
+# #wap to count all number from 1 to 40 which is divisible by 4and 5
+
+# # c=0
+# # x=1
+# # while x<=40:
+# #     if x%4!=0 and x%5!=0:
+# #         c=c+1
+# #         x+=1
+# #         print("number is not divisible",c)
+    
+
+# #write a query to print the cube value of number from 1 to 20
+# # x=1
+
+# # while x<=20:
+# #       print(x,"   :   ",x**3)
+# #       x+=1
+
+
+# #wap to count all number from 1 to 20 who sqaure number is less than 150
+
+# # c=0
+# # x=1
+# # while x<=20:
+# #     if x**2<=150:
+# #         c+=1
+# #         # print(x)
+# #     x+=1
+# # print(c)
+
+# #wap to find a sum of first five number
+
+# # x=1
+# # while x<=5:
+# #     s+=x
+# #     x+=1
+# #     print(s)
+
+
+
+
+
+
+
+
+# #wap to sum all even number from one to 20
+# # s=0
+# # x=1
+# # while x<=20:
+# #     if x%2==0:
+# #         s+=x
+# #     x+=1
+# # print(s)
+
+
+
+# #wap to find the average of first 10 number
+
+# # l=0
+# # s=0
+# # x=1
+# # while x<=10:
+# #     if x%2==0:
+# #         s+=x
+# #         x+=1
+# #         l+=1
+# # average=s/l
+# # print("average of first 10 numbers:",average)
+
+# #wap with help of user input to show the factorial of any number.
+
+# # f = 1
+# # x = 1
+# # y = int(input("enter number   : "))
+# # while x<=y:
+# #     f=f*x
+# #     x+=1
+# # print("factorial of given number:",f)
+
  
+
 
 
 
